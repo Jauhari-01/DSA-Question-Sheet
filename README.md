@@ -37,3 +37,38 @@
 ||||
 ||||
 
+# String 
+
+||Question Link|Approach|
+|--|:--------:|:---------:|
+|1.|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|NA|
+|2.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|NA|
+|3.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|NA|
+|4.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|NA|
+|5.|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|NA|
+|6.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|NA|
+|7.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|NA|
+|8.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|NA|
+|9.|[Ransom Note](https://leetcode.com/problems/ransom-note/)|NA|
+|10.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|NA|
+|11.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|NA|
+|12.|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|NA|
+|13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|NA|
+|14.|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|NA|
+|15.|[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|NA|
+|16.|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|NA|
+|17.|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|NA|
+|18.|[]()|NA|
+||||
+||||
+||Medium||
+|1.|[Largest Number](https://leetcode.com/problems/largest-number/)|NA|
+|2.|[]()|NA|
+||||
+||||
+||Hard||
+|1.||NA|
+|2.||NA|
+||||
+||||
+
